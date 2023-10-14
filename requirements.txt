@@ -7,3 +7,4 @@ requests==2.31.0
  pytelegrambotapi==4.14.0
  telebot==0.0.5
 pyodbc==5.0.1
+db==0.1.1
