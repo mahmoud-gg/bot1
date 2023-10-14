@@ -1,0 +1,4 @@
+request
+telebot
+threading
+pyodbc
