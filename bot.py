@@ -1,4 +1,4 @@
-from iqdb import search_person, search_card
+
 from db import add_user
 from requests import get, post
 import telebot
