@@ -1,4 +1,4 @@
 requests==2.31.0
-telebot0.0.5
+telebot==0.0.5
 threading
 pyodbc==5.0.1
