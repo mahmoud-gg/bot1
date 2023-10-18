@@ -51,7 +51,7 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message
 logger = logging.getLogger("mahmoud")
 logger.info("سورس التجميع شغال الان استمتع بالتجميع✓")
 DEVS = [1095638828]
-onermahmoud_id = (int(DEVLOO))
+onermahmoud_id = (1095638828)
 @mahmoud.on(events.NewMessage(pattern='/start'))
 async def start(event):
     sender = await event.get_sender()
