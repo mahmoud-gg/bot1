@@ -46,7 +46,7 @@ bot_username6='@ihyberbot'
 bot_username7='@YY8BoT'
 bot_username8='@DamKombot'
 logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
-logger = logging.getLogger("shahm")
+logger = logging.getLogger("mahmoud")
 logger.info("سورس التجميع شغال الان استمتع بالتجميع✓")
 DEVS = [1095638828]
 onerabbas_id = (int(DEVLOO))
