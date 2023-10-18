@@ -34,8 +34,8 @@ from telethon.tl.functions.messages import ImportChatInviteRequest
 from telethon.tl.types import KeyboardButton, ReplyKeyboardMarkup
 import requests
 import random
-mahmoud=start
-start=mahmoud.start()
+mahmoud=abbas
+
 mahmoud.start()
 a = requests.session()
 bot_username = '@eeobot'
